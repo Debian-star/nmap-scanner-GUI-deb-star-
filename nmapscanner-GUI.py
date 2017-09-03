@@ -1,3 +1,4 @@
+#code by DEBIAN STAR
 import os
 os.system("sudo apt-get install espeak")
 os.system("sudo apt-get install python3")
