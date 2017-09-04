@@ -1,4 +1,4 @@
-# nmap-GuI
+# nmap-GUI
 Nmap scanner in GUI.
 # Install python first
 sudo apt-get install python3<br />
