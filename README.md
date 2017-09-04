@@ -1,4 +1,4 @@
-# nmap-scanner-GUI-deb-star-
+# nmap-GuI
 Nmap scanner in GUI.
 # Install python first
 sudo apt-get install python3<br />
